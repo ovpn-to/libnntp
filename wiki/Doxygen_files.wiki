@@ -1,0 +1,19 @@
+#summary A List of files with brief descriptions.
+
+|| [Doxygen_files File List] || [Doxygen_globals Globals] ||
+
+Here is a list of all files with brief descriptions:
+|| src/[Doxygen_article_8cc article.cc] ||  ||
+|| src/[Doxygen_article_8h article.h] ||  ||
+|| src/[Doxygen_decoded__article_8cc decoded_article.cc] ||  ||
+|| src/[Doxygen_decoded__article_8h decoded_article.h] ||  ||
+|| src/[Doxygen_exceptions_8h exceptions.h] ||  ||
+|| src/[Doxygen_group_8cc group.cc] ||  ||
+|| src/[Doxygen_group_8h group.h] ||  ||
+|| src/[Doxygen_intrusive__ptr_8h intrusive_ptr.h] ||  ||
+|| src/[Doxygen_nntp_8cc nntp.cc] ||  ||
+|| src/[Doxygen_nntp_8h nntp.h] ||  ||
+|| src/[Doxygen_socket__wrapper_8cc socket_wrapper.cc] ||  ||
+|| src/[Doxygen_socket__wrapper_8h socket_wrapper.h] ||  ||
+---
+|| [Doxygen Main Page] || [Doxygen_files Files] ||

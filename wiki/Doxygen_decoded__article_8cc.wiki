@@ -1,0 +1,13 @@
+#summary Documentation for the decoded_article.cc file
+
+= decoded_article.cc =
+
+
+
+== Detailed Description ==
+
+
+
+
+---
+|| [Doxygen Main Page] || [Doxygen_files Files] ||

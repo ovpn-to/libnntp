@@ -1,0 +1,13 @@
+#summary Documentation for the decoded_article.h file
+
+= decoded_article.h =
+
+
+
+== Detailed Description ==
+
+
+
+
+---
+|| [Doxygen Main Page] || [Doxygen_files Files] ||

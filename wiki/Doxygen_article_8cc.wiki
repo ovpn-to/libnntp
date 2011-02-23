@@ -1,0 +1,13 @@
+#summary Documentation for the article.cc file
+
+= article.cc =
+
+
+
+== Detailed Description ==
+
+
+
+
+---
+|| [Doxygen Main Page] || [Doxygen_files Files] ||
